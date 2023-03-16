@@ -1,0 +1,1 @@
+export const logo = 'https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/0aba6579301149.5cbf290c5a8dd.jpg'
